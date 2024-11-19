@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MBI-Calculator-/static/css/main.7c14a74b.css",
+    "main.js": "/MBI-Calculator-/static/js/main.4c166b13.js",
+    "static/js/453.ad6eb26e.chunk.js": "/MBI-Calculator-/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/MBI-Calculator-/index.html",
+    "main.7c14a74b.css.map": "/MBI-Calculator-/static/css/main.7c14a74b.css.map",
+    "main.4c166b13.js.map": "/MBI-Calculator-/static/js/main.4c166b13.js.map",
+    "453.ad6eb26e.chunk.js.map": "/MBI-Calculator-/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c14a74b.css",
+    "static/js/main.4c166b13.js"
+  ]
+}
